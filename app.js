@@ -8,7 +8,7 @@ starsEl.forEach((starEl, index) => {
     });
 });
 
-updateRating(0);
+updateRating(2);
 
 function updateRating(index) {
     starsEl.forEach((starEl, ind) => {
